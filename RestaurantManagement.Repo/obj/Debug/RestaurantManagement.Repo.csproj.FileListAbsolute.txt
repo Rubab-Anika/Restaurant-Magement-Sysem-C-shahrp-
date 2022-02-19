@@ -1,0 +1,9 @@
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\bin\Debug\RestaurantManagement.Repo.dll
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\bin\Debug\RestaurantManagement.Repo.pdb
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\bin\Debug\RestaurentManagement.data.dll
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\bin\Debug\RestaurentManagement.Entity.dll
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\bin\Debug\RestaurentManagement.data.pdb
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\bin\Debug\RestaurentManagement.Entity.pdb
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\obj\Debug\RestaurantManagement.Repo.csprojResolveAssemblyReference.cache
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\obj\Debug\RestaurantManagement.Repo.dll
+E:\c2\RestaurantManagementsln\RestaurantManagement.Repo\obj\Debug\RestaurantManagement.Repo.pdb

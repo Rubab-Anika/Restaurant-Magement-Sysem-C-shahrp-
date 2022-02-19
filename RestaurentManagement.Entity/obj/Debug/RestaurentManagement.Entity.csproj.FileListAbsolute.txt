@@ -1,0 +1,5 @@
+E:\c2\RestaurantManagementsln\RestaurentManagement.Entity\bin\Debug\RestaurentManagement.Entity.dll
+E:\c2\RestaurantManagementsln\RestaurentManagement.Entity\bin\Debug\RestaurentManagement.Entity.pdb
+E:\c2\RestaurantManagementsln\RestaurentManagement.Entity\obj\Debug\RestaurentManagement.Entity.dll
+E:\c2\RestaurantManagementsln\RestaurentManagement.Entity\obj\Debug\RestaurentManagement.Entity.pdb
+E:\c2\RestaurantManagementsln\RestaurentManagement.Entity\obj\Debug\RestaurentManagement.Entity.csprojResolveAssemblyReference.cache

@@ -1,0 +1,43 @@
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojResolveAssemblyReference.cache
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmChangePassword.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmEmployee.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmEmployeeDetail.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmFoodItem.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmHome.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmLogin.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmManager.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmOrderDetail.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmTable.resources
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.Cache
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+E:\c#\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmOrder.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csprojAssemblyReference.cache
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmChangePassword.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmEmployee.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmEmployeeDetail.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmFoodItem.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmHome.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmLogin.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmManager.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmOrder.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmOrderDetail.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.frmTable.resources
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\User\Documents\10th semester\OOP2\Project\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+E:\c2\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+E:\c2\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+E:\c2\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+E:\c2\rrr\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+E:\c2\rrr\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+E:\c2\rrr\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
